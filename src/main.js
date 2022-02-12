@@ -12,7 +12,6 @@ Vue.config.productionTip = false
 Vue.use(Antd)
 
 new Vue({
-
+  store,
   render: h => h(App),
-  store
 }).$mount('#app')

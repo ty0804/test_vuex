@@ -2,17 +2,17 @@
   {
     "id": 0,
     "info": "Racing car sprays burning fuel into crowd.",
-    "done": false,
+    "done": false
   },
   {
     "id": 1,
     "info": "Japanese princess to wed commoner.",
-    "done": false
+    "done": true
   },
   {
     "id": 2,
     "info": "Australian walks 100km after outback crash.",
-    "done": false,
+    "done": true
   },
   {
     "id": 3,
@@ -23,5 +23,5 @@
     "id": 4,
     "info": "Los Angeles battles huge wildfires.",
     "done": false
-  },
+  }
 ]
